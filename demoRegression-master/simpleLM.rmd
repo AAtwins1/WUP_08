@@ -112,5 +112,5 @@ summary.lm(simp)
 ```
 # The best variable
 
-The best variable to compare LENGTH was HEADLEN. Since, it gave the greater value of adjusted R-squared, which was .843. After we looked at the model of LENGTH~NECK and compared the original model to the new NECK SQUARED model, which did not really change much to the value of adjusted R-squared.
+The best variable to compare LENGTH was HEADLEN. Since, it gave the greater value of adjusted R-squared, which was .843. After, we looked at the model of LENGTH~NECK and compared the original model to the new NECK SQUARED model, which did not really change much to the value of adjusted R-squared.
 
