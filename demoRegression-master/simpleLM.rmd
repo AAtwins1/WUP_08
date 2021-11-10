@@ -95,6 +95,8 @@ plot(LENGTH~HEADWTH,data=bears)
 abline(simp)
 summary.lm(simp)
 ```
+  
+HEADWTH was not the best variable to compare LENGTH to because it does not have a higher adjusted R- squared value.   
 
 # NECK SQUARED
 
