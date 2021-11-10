@@ -69,6 +69,8 @@ abline(simp)
 summary.lm(simp)
 ```
 
+CHEST was a variable that had an adjusted R-squared better than the first one but it still was not the best variable. 
+
 # SEX
 
 ```{r}
